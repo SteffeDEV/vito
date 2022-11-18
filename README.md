@@ -1,5 +1,5 @@
 # vito
-"Amistuning" vito
+"Tuning" vito
 
 By SteffeModding
 
